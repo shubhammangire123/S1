@@ -10,7 +10,7 @@ public class insta {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.instagram.in");
+	  driver.get("https://www.instagram.com");
 	 Thread.sleep(1000);
 	  driver.close();
   }
