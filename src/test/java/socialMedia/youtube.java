@@ -10,7 +10,7 @@ public class youtube {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.youtube.com");
+	  driver.get("https://www.youtube.co");
 	 Thread.sleep(1000);
 	  driver.close();
   }
