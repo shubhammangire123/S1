@@ -11,7 +11,7 @@ public class fb {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.facebook.com/");
+	  driver.get("https://www.facebook.in");
 	 Thread.sleep(1000);
 	  driver.close();
   }
